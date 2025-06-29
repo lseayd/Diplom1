@@ -1,0 +1,56 @@
+{
+  "uid" : "ce959d8b1bd517b1",
+  "name" : "checkGetPrice",
+  "fullName" : "praktikum.BurgerTest.checkGetPrice",
+  "historyId" : "5069a2cba504d5487a599bd1d284b874",
+  "time" : {
+    "start" : 1751203895401,
+    "stop" : 1751203895404,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.BurgerTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkGetPrice"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.BurgerTest"
+  }, {
+    "name" : "host",
+    "value" : "113838797in"
+  }, {
+    "name" : "thread",
+    "value" : "1114@113838797in.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce959d8b1bd517b1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,161 @@
+[ {
+  "uid" : "956e64ef2780f21d",
+  "name" : "checkSetBuns",
+  "time" : {
+    "start" : 1751203895412,
+    "stop" : 1751203895412,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2725bd7ca127a8f7",
+  "name" : "returnPriceOfBun[Тестовые данные: black bun 100]",
+  "time" : {
+    "start" : 1751203895444,
+    "stop" : 1751203895445,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51e0f2aad865dc9c",
+  "name" : "checkMoveIngredient",
+  "time" : {
+    "start" : 1751203895406,
+    "stop" : 1751203895406,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e996714e5423b123",
+  "name" : "returnNameOfBun[Тестовые данные: red bun 300]",
+  "time" : {
+    "start" : 1751203895455,
+    "stop" : 1751203895456,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30cc38c94669a7e7",
+  "name" : "returnTypeOfIngredient",
+  "time" : {
+    "start" : 1751203895465,
+    "stop" : 1751203895465,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fb2cb688c34cd7e",
+  "name" : "returnNameOfBun[Тестовые данные: white bun 200]",
+  "time" : {
+    "start" : 1751203895447,
+    "stop" : 1751203895447,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64a772277a2f10ab",
+  "name" : "checkRemoveIngredient",
+  "time" : {
+    "start" : 1751203895399,
+    "stop" : 1751203895399,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96c8981da3cd3535",
+  "name" : "returnNameOfIngredient",
+  "time" : {
+    "start" : 1751203895471,
+    "stop" : 1751203895471,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce959d8b1bd517b1",
+  "name" : "checkGetPrice",
+  "time" : {
+    "start" : 1751203895401,
+    "stop" : 1751203895404,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5eac11cfdf73a69",
+  "name" : "returnPriceOfIngredient",
+  "time" : {
+    "start" : 1751203895466,
+    "stop" : 1751203895466,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4a101d75a5ffabc",
+  "name" : "checkAddIngredient",
+  "time" : {
+    "start" : 1751203895410,
+    "stop" : 1751203895410,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4da62cf7bb0651b3",
+  "name" : "checkGetReceipt",
+  "time" : {
+    "start" : 1751203895210,
+    "stop" : 1751203895394,
+    "duration" : 184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e18cd7c40b6a03b1",
+  "name" : "returnNameOfBun[Тестовые данные: black bun 100]",
+  "time" : {
+    "start" : 1751203895435,
+    "stop" : 1751203895439,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1967f3a008a8e54d",
+  "name" : "returnPriceOfBun[Тестовые данные: white bun 200]",
+  "time" : {
+    "start" : 1751203895450,
+    "stop" : 1751203895450,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11d71c43f34a6e00",
+  "name" : "getTypeOfIngredient",
+  "time" : {
+    "start" : 1751203894145,
+    "stop" : 1751203894175,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9c3bba84eb7838f",
+  "name" : "returnPriceOfBun[Тестовые данные: red bun 300]",
+  "time" : {
+    "start" : 1751203895457,
+    "stop" : 1751203895458,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

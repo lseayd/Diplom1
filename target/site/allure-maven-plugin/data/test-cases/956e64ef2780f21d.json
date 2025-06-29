@@ -1,0 +1,56 @@
+{
+  "uid" : "956e64ef2780f21d",
+  "name" : "checkSetBuns",
+  "fullName" : "praktikum.BurgerTest.checkSetBuns",
+  "historyId" : "fc604beccdf8420c0a151c54d7ab46ce",
+  "time" : {
+    "start" : 1751203895412,
+    "stop" : 1751203895412,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.BurgerTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkSetBuns"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.BurgerTest"
+  }, {
+    "name" : "host",
+    "value" : "113838797in"
+  }, {
+    "name" : "thread",
+    "value" : "1114@113838797in.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "956e64ef2780f21d.json",
+  "parameterValues" : [ ]
+}

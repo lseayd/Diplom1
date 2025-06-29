@@ -1,0 +1,229 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "praktikum.IngredientTypeTest",
+    "children" : [ {
+      "name" : "getTypeOfIngredient",
+      "uid" : "11d71c43f34a6e00",
+      "parentUid" : "77f6603e666463399763b4aa6a173135",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203894145,
+        "stop" : 1751203894175,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "77f6603e666463399763b4aa6a173135"
+  }, {
+    "name" : "praktikum.BurgerTest",
+    "children" : [ {
+      "name" : "checkGetReceipt",
+      "uid" : "4da62cf7bb0651b3",
+      "parentUid" : "d0317b23cdaf7f2580dd486a27183962",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895210,
+        "stop" : 1751203895394,
+        "duration" : 184
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkRemoveIngredient",
+      "uid" : "64a772277a2f10ab",
+      "parentUid" : "d0317b23cdaf7f2580dd486a27183962",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895399,
+        "stop" : 1751203895399,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkGetPrice",
+      "uid" : "ce959d8b1bd517b1",
+      "parentUid" : "d0317b23cdaf7f2580dd486a27183962",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895401,
+        "stop" : 1751203895404,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkMoveIngredient",
+      "uid" : "51e0f2aad865dc9c",
+      "parentUid" : "d0317b23cdaf7f2580dd486a27183962",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895406,
+        "stop" : 1751203895406,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkAddIngredient",
+      "uid" : "e4a101d75a5ffabc",
+      "parentUid" : "d0317b23cdaf7f2580dd486a27183962",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895410,
+        "stop" : 1751203895410,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkSetBuns",
+      "uid" : "956e64ef2780f21d",
+      "parentUid" : "d0317b23cdaf7f2580dd486a27183962",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895412,
+        "stop" : 1751203895412,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d0317b23cdaf7f2580dd486a27183962"
+  }, {
+    "name" : "praktikum.BunTest",
+    "children" : [ {
+      "name" : "returnNameOfBun[Тестовые данные: black bun 100]",
+      "uid" : "e18cd7c40b6a03b1",
+      "parentUid" : "ee30d03cf023f9ab70091ed2a92edf3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895435,
+        "stop" : 1751203895439,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "returnPriceOfBun[Тестовые данные: black bun 100]",
+      "uid" : "2725bd7ca127a8f7",
+      "parentUid" : "ee30d03cf023f9ab70091ed2a92edf3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895444,
+        "stop" : 1751203895445,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "returnNameOfBun[Тестовые данные: white bun 200]",
+      "uid" : "5fb2cb688c34cd7e",
+      "parentUid" : "ee30d03cf023f9ab70091ed2a92edf3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895447,
+        "stop" : 1751203895447,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "returnPriceOfBun[Тестовые данные: white bun 200]",
+      "uid" : "1967f3a008a8e54d",
+      "parentUid" : "ee30d03cf023f9ab70091ed2a92edf3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895450,
+        "stop" : 1751203895450,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "returnNameOfBun[Тестовые данные: red bun 300]",
+      "uid" : "e996714e5423b123",
+      "parentUid" : "ee30d03cf023f9ab70091ed2a92edf3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895455,
+        "stop" : 1751203895456,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "returnPriceOfBun[Тестовые данные: red bun 300]",
+      "uid" : "e9c3bba84eb7838f",
+      "parentUid" : "ee30d03cf023f9ab70091ed2a92edf3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895457,
+        "stop" : 1751203895458,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ee30d03cf023f9ab70091ed2a92edf3a"
+  }, {
+    "name" : "praktikum.IngredientTest",
+    "children" : [ {
+      "name" : "returnTypeOfIngredient",
+      "uid" : "30cc38c94669a7e7",
+      "parentUid" : "60161242b244fd591eab99cc170fdb01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895465,
+        "stop" : 1751203895465,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "returnPriceOfIngredient",
+      "uid" : "5eac11cfdf73a69",
+      "parentUid" : "60161242b244fd591eab99cc170fdb01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895466,
+        "stop" : 1751203895466,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "returnNameOfIngredient",
+      "uid" : "96c8981da3cd3535",
+      "parentUid" : "60161242b244fd591eab99cc170fdb01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751203895471,
+        "stop" : 1751203895471,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "60161242b244fd591eab99cc170fdb01"
+  } ]
+}
