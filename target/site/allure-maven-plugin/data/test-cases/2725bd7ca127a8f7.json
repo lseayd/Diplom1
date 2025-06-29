@@ -1,0 +1,56 @@
+{
+  "uid" : "2725bd7ca127a8f7",
+  "name" : "returnPriceOfBun[Тестовые данные: black bun 100]",
+  "fullName" : "praktikum.BunTest.returnPriceOfBun[Тестовые данные: black bun 100]",
+  "historyId" : "e126b58a8ab72c296ff2ff59a8dca0da",
+  "time" : {
+    "start" : 1751203895444,
+    "stop" : 1751203895445,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.BunTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "returnPriceOfBun[Тестовые данные: black bun 100]"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.BunTest"
+  }, {
+    "name" : "host",
+    "value" : "113838797in"
+  }, {
+    "name" : "thread",
+    "value" : "1114@113838797in.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2725bd7ca127a8f7.json",
+  "parameterValues" : [ ]
+}

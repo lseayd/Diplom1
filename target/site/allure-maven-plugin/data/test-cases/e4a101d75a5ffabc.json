@@ -1,0 +1,56 @@
+{
+  "uid" : "e4a101d75a5ffabc",
+  "name" : "checkAddIngredient",
+  "fullName" : "praktikum.BurgerTest.checkAddIngredient",
+  "historyId" : "2b901e055d56a9456ec1cc23fe7fac49",
+  "time" : {
+    "start" : 1751203895410,
+    "stop" : 1751203895410,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.BurgerTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkAddIngredient"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.BurgerTest"
+  }, {
+    "name" : "host",
+    "value" : "113838797in"
+  }, {
+    "name" : "thread",
+    "value" : "1114@113838797in.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4a101d75a5ffabc.json",
+  "parameterValues" : [ ]
+}

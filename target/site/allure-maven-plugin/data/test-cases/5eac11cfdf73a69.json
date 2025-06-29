@@ -1,0 +1,56 @@
+{
+  "uid" : "5eac11cfdf73a69",
+  "name" : "returnPriceOfIngredient",
+  "fullName" : "praktikum.IngredientTest.returnPriceOfIngredient",
+  "historyId" : "1634d8d46d620d1be6a7a38b15e9c73f",
+  "time" : {
+    "start" : 1751203895466,
+    "stop" : 1751203895466,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "praktikum"
+  }, {
+    "name" : "testClass",
+    "value" : "praktikum.IngredientTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "returnPriceOfIngredient"
+  }, {
+    "name" : "suite",
+    "value" : "praktikum.IngredientTest"
+  }, {
+    "name" : "host",
+    "value" : "113838797in"
+  }, {
+    "name" : "thread",
+    "value" : "1114@113838797in.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5eac11cfdf73a69.json",
+  "parameterValues" : [ ]
+}
